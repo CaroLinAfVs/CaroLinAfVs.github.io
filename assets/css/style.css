@@ -35,6 +35,9 @@ header {
     margin-bottom: 110px;
     padding-left: 40px;
 }
+.redes i{
+    color:white
+}
 .proyectos{
     background-color: white;
 }
@@ -46,6 +49,7 @@ header {
 }
 .card{
     flex-direction: column;
+    height: 400px;
 }
 .contacto{
     text-align: center;
