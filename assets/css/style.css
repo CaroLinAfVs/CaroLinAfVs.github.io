@@ -1,0 +1,66 @@
+body{
+    margin: 0%;
+}
+
+header {
+    background-image: url(https://s2.best-wallpaper.net/wallpaper/3840x2160/1711/Many-green-leaves-plants_3840x2160.jpg); 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 250px;
+    background-size: cover;
+}
+.nav-item{
+    padding-right: 4px;
+}
+
+.title-name {
+    margin-bottom: 0;
+     color: rgba(255, 255, 255, 0.993);
+}
+
+.row.justify-content-around {
+    background-color: rgb(86, 141, 86);
+    
+}
+ .información{
+     vertical-align: middle;
+     margin-top: 100px;
+     margin-bottom: 90px;
+     color: white;
+ }
+.text-center img{
+    width: 25rem;
+    height: 18rem;
+    margin-top: 110px;
+    margin-bottom: 110px;
+    padding-left: 40px;
+}
+.proyectos{
+    background-color: white;
+}
+.trabajos{
+    text-align: center;
+}
+.row g-3{
+    flex-wrap: wrap;
+}
+.card{
+    flex-direction: column;
+}
+.contacto{
+    text-align: center;
+    background-color: rgb(86, 141, 86);
+    padding-bottom: 15px;
+}
+.mb-3 {
+    margin-left: 25rem;
+    margin-right: 25rem;
+}
+footer{
+    background-color: black;
+}
+.copyright p{
+    color:white;
+    margin-bottom: 0%;
+    text-align: center;
+}
