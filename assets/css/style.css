@@ -1,7 +1,12 @@
 body{
     margin: 0%;
 }
-
+ h1,
+ p,
+ h5 {
+     font-size: 25px;
+     
+ }
 header {
     background-image: url(https://s2.best-wallpaper.net/wallpaper/3840x2160/1711/Many-green-leaves-plants_3840x2160.jpg); 
     padding-top: 20px;
@@ -49,7 +54,8 @@ header {
 }
 .card{
     flex-direction: column;
-    height: 400px;
+    height: 520px;
+    padding-bottom: 10px;
 }
 .contacto{
     text-align: center;
